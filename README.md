@@ -1,3 +1,3 @@
 # backupchdc
 
-This is a back up for the CHDC website
+This is a back up for the CHDC internal website
